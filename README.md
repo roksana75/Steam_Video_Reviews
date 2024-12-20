@@ -1,3 +1,10 @@
+The repository contains data analysis, sentiment analysis, and algorithmic problem-solving questions from below
+### main.ipynb
+The main.ipynb file contains all the assigned questions solved in the following order:
+1. Research Questions
+2. Bonus Question
+3. Algorithmic Question
+
 Videogames Reviews
 
 <img src="https://mmos.com/wp-content/uploads/2021/07/steam-logo-welcome-banner.jpg" alt="drawing" width="1000"/>
