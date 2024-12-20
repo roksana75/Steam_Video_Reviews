@@ -1,4 +1,4 @@
-# Homework 2 - Videogames Reviews
+Videogames Reviews
 
 <img src="https://mmos.com/wp-content/uploads/2021/07/steam-logo-welcome-banner.jpg" alt="drawing" width="1000"/>
 
@@ -7,34 +7,6 @@ Video games have evolved into a major form of entertainment, leaving a lasting i
 Imagine that you and your team have been hired as a data scientist by a leading Game Development Company, where your primary mission is to harness the power of data. Along with your team, you're tasked with analyzing the vast pool of game reviews on Steam, where users (Authors) share their thoughts and feedback about various games. Each row in your dataset corresponds to a review, representing a unique interaction between a player and a game.
 
 Your **objective** is to answer research questions (RQs) to uncover meaningful patterns in the data, helping the company understand what players value in a video game.
-
-
-
-____
-
-## Before starting
-Among all the numerous things and good practices a data scientist needs to do before running any analysis, there is one of uttermost importance: **get data and understand it**! 
-
-
-Here, you find the list of tasks you need to perform before digging into the world of Steam.
-
-* **Get your data!** Go to [this website](https://www.kaggle.com/najzeko/steam-reviews-2021) and download the files **steam_reviews.csv**.
-* **Understand your data.** Read the name of each column to understand what it refers to. Additional information about the variables can be found in the description of the data section on the web page. Please, be sure that you've understood the data before start coding.
-* **Handling data.** The data are provided in one `.csv` file. For this reason, to answer the RQs, we kindly suggest you import the `.csv` files as `pandas DataFrame` object and then, based on what you want to analyze, perform the necessary operations. 
-
-Friendly reminder: The Internet is your friend, and it may be the source of the answer you may have along this and many other projects!
-
-
-____
-
-
-# VERY VERY IMPORTANT
-1. **!!! Read the entire homework before coding anything!!!**
-2. *My solution it's not better than yours, and yours is not better than mine*. In any data analysis task, there **is not** a unique way to answer to RQs. For this reason, it is crucial (**necessary and mandatory**) that you describe any single decision you take and all the steps you do.
-3. Once performed any exercise, comments about the obtained results are **mandatory**. We are not always explicit about where to focus your comments, but we will always want some brief sentences about your discoveries.
-4. We encourage using chatGPT (Claude AI, Gemini, Perplexity, or any other Large Language Models (LLM) chatbot tool) as allies to help you solve your homework, and we were hoping you could learn how to use them properly. However, using such tools when not explicitly allowed will be considered plagiarism and strictly prohibited.
-
-____
 
 # Research questions (RQs)
 
@@ -146,6 +118,4 @@ YES
 1. Implement a Python program to solve the problem above.
 2. Please provide an analysis of your code's time complexity using Big O notation.
 3. Ask an LLM tool (such as ChatGPT, Claude AI, Gemini, Perplexity, etc.) to evaluate the time complexity of your code using Big O notation. Is the assessment accurate? If it differs from your previous analysis, which would be correct? Please explain your reasoning.
-  
 
-Have fun!
